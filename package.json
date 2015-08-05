@@ -1,0 +1,15 @@
+{
+  "name": "gbot",
+  "version": "0.0.1",
+  "private" : "true",
+  "description": "A garden robot",
+  "author": "Bruno De La Bretèche",
+  "dependencies": {
+  	"log4js" : "*"
+  },
+  "repository" :{ 
+  	"type" : "git",
+   	"url" : "https://github.com/bruteche/gbot.git"
+  }
+
+ }

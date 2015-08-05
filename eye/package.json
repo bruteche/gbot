@@ -1,0 +1,10 @@
+{
+  "name": "gbot-eye",
+  "version": "0.0.1",
+  "private" : "true",
+  "description": "Eyes of my garden bot based on openCV",
+  "author": "Bruno De La Bretèche",
+  "dependencies": {
+  	"log4js" : "*"
+  }
+ }
